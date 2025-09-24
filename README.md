@@ -3,7 +3,9 @@
 ## Hi everyone :) 👋
 
 ## introduction
-Currently, I am a B.Sc student studying Computer Engineering major at Shahid Beheshti University.
+Backend Engineer at Snapp (Iran's largest ride-hailing platform, serving millions of users) with 2 years of experience in scalable system design and Go development. Holder of B.Sc in Computer Engineering from Shahid Beheshti University. Active contributor to open-source projects with expertise in microservices architecture and cloud-native technologies.
+
+GitLab: https://gitlab.snapp.ir/mohamadmahdi.nori
 ## mohammad mahdi github stats
 ![m.mahdy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadmahdi1234&theme=blue-green&show_icons=true)
 
